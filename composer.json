@@ -2,8 +2,8 @@
     "name": "priteshmangoit/hello-world",
     "description": "A simple hello-world module",
     "license": "MIT",
+    "version": "1.0.0",
     "require": {
-        "php": ">=8.2",
-        "another-vendor/package": "1.*"
+        "php": ">=8.2"
     }
 }
